@@ -1,0 +1,4 @@
+fin_cache.json
+__pycache__/
+*.pyc
+.venv/
